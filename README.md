@@ -23,7 +23,7 @@ What is MAVEN?
 ### Similar tools like Maven ?
 - ant
 - gradle
-- kotlin
+
 ### Most important file in a Maven project?
 - pom.xml is the most important file in a Maven project.
 
@@ -47,7 +47,9 @@ PS: Fuck VS Code for Java !
 
 ## How to start ?
 
-You can found more help here: https://dzone.com/articles/simple-http-server-in-java
+Module to add in maven: https://mvnrepository.com/artifact/com.sparkjava/spark-core
+
+You can found more help here: https://sparkjava.com/
 
 ## exercise
 
