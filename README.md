@@ -1,4 +1,4 @@
-# Workshop Selenium Java
+# Workshop API en Java avec Spark
 
 ## Introduction
 
